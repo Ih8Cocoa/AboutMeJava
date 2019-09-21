@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Meow</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">I am Meow. \nI love fish\nMore than you can imagine.\nDid I also tell you that
+        I love fish?\n
+        What? You didn\'t know that I love fish so much??\nSmh my head</string>
+    <string name="nickname_hint">What\'s your nickname?</string>
+    <string name="done">done</string>
+</resources>
